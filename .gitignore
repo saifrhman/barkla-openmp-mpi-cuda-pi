@@ -1,0 +1,11 @@
+# Compiled binaries
+pi_openmp
+*.out
+*.o
+
+# VSCode / editor
+.vscode/
+*.swp
+
+# Python notebooks (if you add plots later) checkpoints
+.ipynb_checkpoints/
